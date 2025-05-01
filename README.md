@@ -1,1 +1,1 @@
-# rodigies Edtech Project
+# Prodigies Edtech Project
